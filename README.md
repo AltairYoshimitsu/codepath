@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://github.com/AltairYoshimitsu/codepath/assets/14897865/d4cf26d7-21f7-44cc-b0a8-06d6835ccf1c]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AltairYoshimitsu/codepath/assets/14897865/d4cf26d7-21f7-44cc-b0a8-06d6835ccf1c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://github.com/AltairYoshimitsu/codepath/assets/14897865/d4cf26d7-21f7-44cc-b0a8-06d6835ccf1c
 
 
