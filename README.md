@@ -1,25 +1,28 @@
 # codepath
 
-# Prework - *Name of App Here*
+# Prework - Color Randomizer
 
-Submitted by: **Your Name Here**
+Submitted by: Alberto Romero
 
-**Name of your app** is an app that... [TODO] 
+**Color Randomizer** is an app that... changes the background color of a screen with a push of a button.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ x] Users are see a screen with three labels and a button
+- [ x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2023-08-24 at 13 30 46](https://github.com/AltairYoshimitsu/codepath/assets/14897865/8452313d-fd5f-48f7-adf6-8d97c73959fb)
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... Kap 
