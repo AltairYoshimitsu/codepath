@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Kapture 2023-08-24 at 13 30 46](https://github.com/AltairYoshimitsu/codepath/assets/14897865/8452313d-fd5f-48f7-adf6-8d97c73959fb)
+<img src='[https://github.com/AltairYoshimitsu/codepath/assets/14897865/d4cf26d7-21f7-44cc-b0a8-06d6835ccf1c]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![playthrough](https://github.com/AltairYoshimitsu/codepath/assets/14897865/d4cf26d7-21f7-44cc-b0a8-06d6835ccf1c)
 
 
 
